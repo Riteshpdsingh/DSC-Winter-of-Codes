@@ -1,6 +1,7 @@
  body {
-    font-family: Roboto,"Helvetica Neue",sans-serif;
-    background-color: rgba(250,250,250) 
+    font-family: Roboto,"Helvetica Neue",Serif;
+    background-color: yellow;
+    background-repeat:no-repeat;
  }
  .logo-image {
      width: 190px;
